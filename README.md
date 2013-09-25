@@ -1,4 +1,4 @@
 reverse-text
 ============
 
-Text reverser that preserves tabs/newline positioning
+Text reverser that preserves tabs/newline positioning.
